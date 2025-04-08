@@ -1,0 +1,19 @@
+2025/04/08-09:08:43.633 4428 Reusing MANIFEST D:\chat-bot 2\tokens\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/04/08-09:08:43.634 4428 Recovering log #205
+2025/04/08-09:08:43.647 4428 Reusing old log D:\chat-bot 2\tokens\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000205.log 
+2025/04/08-09:08:44.675 4428 Level-0 table #213: started
+2025/04/08-09:08:44.684 4428 Level-0 table #213: 390600 bytes OK
+2025/04/08-09:08:44.687 4428 Delete type=0 #205
+2025/04/08-09:08:44.687 4428 Manual compaction at level-0 from '\x00%\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00&\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/04/08-09:08:46.239 20c0 Compacting 1@1 + 4@2 files
+2025/04/08-09:08:46.313 20c0 Generated table #214@1: 78017 keys, 2257341 bytes
+2025/04/08-09:08:46.353 20c0 Generated table #215@1: 17965 keys, 2164878 bytes
+2025/04/08-09:08:46.404 20c0 Generated table #216@1: 42615 keys, 2199291 bytes
+2025/04/08-09:08:46.463 20c0 Generated table #217@1: 86858 keys, 1704838 bytes
+2025/04/08-09:08:46.463 20c0 Compacted 1@1 + 4@2 files => 8326348 bytes
+2025/04/08-09:08:46.465 20c0 compacted to: files[ 0 0 4 0 0 0 0 ]
+2025/04/08-09:08:46.466 20c0 Delete type=2 #207
+2025/04/08-09:08:46.466 20c0 Delete type=2 #208
+2025/04/08-09:08:46.466 20c0 Delete type=2 #209
+2025/04/08-09:08:46.466 20c0 Delete type=2 #210
+2025/04/08-09:08:46.466 20c0 Delete type=2 #213

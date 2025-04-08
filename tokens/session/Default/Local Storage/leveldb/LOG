@@ -1,0 +1,21 @@
+2025/04/08-10:06:42.074 df8 Reusing MANIFEST D:\chat-bot 2\tokens\session\Default\Local Storage\leveldb/MANIFEST-000001
+2025/04/08-10:06:42.079 df8 Recovering log #29
+2025/04/08-10:06:42.080 df8 Reusing old log D:\chat-bot 2\tokens\session\Default\Local Storage\leveldb/000029.log 
+2025/04/08-10:38:42.359 3bc4 Level-0 table #32: started
+2025/04/08-10:38:42.365 3bc4 Level-0 table #32: 11868 bytes OK
+2025/04/08-10:38:42.371 3bc4 Delete type=0 #29
+2025/04/08-12:41:42.366 df8 Level-0 table #34: started
+2025/04/08-12:41:42.375 df8 Level-0 table #34: 10841 bytes OK
+2025/04/08-12:41:42.382 df8 Delete type=0 #31
+2025/04/08-14:38:42.362 df8 Level-0 table #36: started
+2025/04/08-14:38:42.376 df8 Level-0 table #36: 11192 bytes OK
+2025/04/08-14:38:42.380 df8 Delete type=0 #33
+2025/04/08-14:38:42.381 df8 Compacting 4@0 + 1@1 files
+2025/04/08-14:38:42.389 df8 Generated table #37@0: 24 keys, 3453 bytes
+2025/04/08-14:38:42.389 df8 Compacted 4@0 + 1@1 files => 3453 bytes
+2025/04/08-14:38:42.392 df8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/04/08-14:38:42.394 df8 Delete type=2 #26
+2025/04/08-14:38:42.395 df8 Delete type=2 #28
+2025/04/08-14:38:42.395 df8 Delete type=2 #32
+2025/04/08-14:38:42.395 df8 Delete type=2 #34
+2025/04/08-14:38:42.396 df8 Delete type=2 #36

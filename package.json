@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@wppconnect-team/wppconnect": "^1.36.4",
+    "sqlite3": "^5.1.7"
+  }
+}
